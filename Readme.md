@@ -14,7 +14,7 @@ Contrary to the common belief that mitigating overthinking in LRMs requires spec
 
 ![advprompt](./assets/advprompt.png)
 
-We explore five distinct types of adversarial prompts, including emotional appeal, threat, evidence-based persuasion, role-playing, and detailed instructions. Experiments across four benchmarks demonstrate that AdvPrompt consistently reduces token usage while preserving performance. Notably, it achieves a 3x reduction in average response length on simple GSM8K questions for the Qwen3 model series, and delivers an average 40% token reduction across four benchmarks. For closed-source APIs, AdvPrompt reduces token usage on MATH-500 by 35% for Claude-3.7 and 47% for Gemini-2.5.
+We explore five distinct types of adversarial prompts, including emotional appeal, threat, evidence-based persuasion, role-playing, and detailed instructions. Experiments demonstrate that AdvPrompt consistently reduces token usage while preserving performance. Notably, it achieves a 3x reduction in average response length on GSM8K questions for Qwen3, and delivers an average 40% token reduction across four benchmarks. For closed-source APIs, AdvPrompt reduces token usage on MATH-500 by 35% for Claude-3.7 and 47% for Gemini-2.5.
 
 ## Update
 
