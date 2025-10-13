@@ -34,10 +34,10 @@ pip install -e .
 
 ## Evaluation
 
-Modify and run command lines in `sh/qwen/eval_qwen3.sh`, the results will be stored in `output/`.
+Modify and run command lines in `sh/qwen3/eval_qwen3.sh`, the results will be stored in `output/`.
 
 ```
-bash sh/qwen/eval_qwen3.sh
+bash sh/qwen3/eval_qwen3.sh
 ```
 
 ## Acknowledgments
